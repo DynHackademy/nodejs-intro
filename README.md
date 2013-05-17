@@ -2,6 +2,8 @@
 
 My introduction presentation to node.js along with sample code at various stages of building a simple RESTful web service with director, cradle, winston, optimist, and http-console.
 
+This is some new text!
+
 #### Author: [Charlie Robbins](http://twitter.com/indexzero)
 
 [0]: http://github.com/flatiron/director
